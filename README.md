@@ -1,6 +1,6 @@
 # BugtagsInsta Android SDK
 
-> latest version is `1.0.2`
+> latest version is `1.0.3`
 
 BugtagsInsta for Android, a powerful plugin for [Bugtags SDK](https://github.com/bugtags/Bugtags-Android)， monitor your mobile app in real-time, providing instant & rich information for your development.
 
