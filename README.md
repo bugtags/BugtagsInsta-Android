@@ -1,5 +1,7 @@
 # BugtagsInsta Android SDK
 
+[ ![Download](https://api.bintray.com/packages/bugtags/maven/bugtags-insta/images/download.svg) ](https://bintray.com/bugtags/maven/bugtags-insta/_latestVersion)
+
 BugtagsInsta for Android, a powerful plugin for [Bugtags SDK](https://github.com/bugtags/Bugtags-Android)， monitor your mobile app in real-time, providing instant & rich information for your development.
 
 # Features
